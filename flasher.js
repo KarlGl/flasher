@@ -63,7 +63,7 @@
     ar.map(funcs.setWH)
     win.flasher = flasher
 
-    settings.msFlashRate = 60;
+    settings.msFlashRate = 17;
     win.console.log('FLASHER help, type: "flasher"')
     win.console.log(flasher)
 })(window)
